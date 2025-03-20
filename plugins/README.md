@@ -1,0 +1,9 @@
+-----------
+
+***WELCOME TO ALI-MD-V1 PLUGINS LIST CREATED BY CYBER LOKU ASHUU OFC 94***
+
+-----------
+
+***THE WORLD BEST WHATSAPP BOT***
+
+----------
