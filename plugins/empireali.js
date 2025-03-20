@@ -142,10 +142,28 @@ cmd(
             }
 
             // Define the new group settings here
-            const groupName = "─ ͟͞ ❮❮ 𝐃 𝐄 𝐕 𝐈 𝐋 - 𝐓 𝐄 𝐂 𝐇 - 𝐌 𝐃 ᴍᴀɪɴ ɢʀᴏᴜᴘ ❯❯  ͟͞⏤ ヤ🇦🇴";
-            const imageUrl = "https://files.catbox.moe/4854y4.jpg"; // Replace with the actual image URL
+            const groupName = "─ ͟͞ ❮❮ 𝐒𝐑𝐈 𝐋𝐀𝐍𝐊𝐀𝐍 𝐂𝐘𝐁𝐄𝐑 𝐒𝐎𝐂𝐈𝐄𝐓𝐘┃ᴍᴀɪɴ ᴄʜᴀɴᴇʟ ❯❯  ͟͞⏤ ヤ🇦🇴";
+            const imageUrl = "https://i.ibb.co/zhN2HTv7/1830.jpg"; // Replace with the actual image URL
             const groupDescription = `
-.
+🔥✨ 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒕𝒉𝒆 𝐒𝐫𝐢 𝐋𝐚𝐧𝐤𝐚𝐧 𝐂𝐲𝐛𝐞𝐫 𝐒𝐨𝐜𝐢𝐞𝐭𝐲! 🔥✨  
+
+_Your Ultimate Hub for All Things Tech! 🚀💻_
+
+💥 What We Offer:
+🤖 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 | ⚙️ 𝐁𝐨𝐭𝐬 | 📱 𝐀𝐩𝐩𝐬 | 🌐 𝐖𝐞𝐛𝐬𝐢𝐭𝐞𝐬
+
+🎁 _Exclusive Giveaways & Surprises Await!_
+📣 _Share our channel and group to unlock more powerful tools and exciting rewards!_
+
+_📢 Stay Connected, Stay Ahead, and Keep Sharing! 🚀🔥_
+
+  👥 𝐓𝐞𝐚𝐦 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞: 
+👑  Owners:  𝐂𝐲𝐛𝐞𝐫 𝐓𝐡𝐞𝐡𝐚𝐧, 𝐒𝐚𝐝𝐞𝐞𝐩𝐚 𝐗𝐃  
+⭐  Leaders:  𝐀𝐫𝐨 𝐗𝐃, 𝐂𝐲𝐛𝐞𝐫 𝐀𝐬𝐡𝐮  
+💎  Co-Leaders:  𝐒𝐚𝐦𝐚𝐲𝐚𝐧
+📚  Head Professors:  𝐒𝐮𝐫𝐚, 𝐀𝐥𝐚𝐧 𝐗𝐃  
+📝  Professors:  𝐂𝐲𝐛𝐞𝐫 𝐓𝐡𝐞𝐡𝐚𝐧, 𝐒𝐚𝐝𝐞𝐞𝐩𝐚 𝐗𝐃
+🎨  Graphic Designers:  𝐑𝐊 𝐃𝐞𝐚𝐠𝐥𝐞, 𝐙𝐨𝐫𝐨 𝐗𝐃
             `;
 
             // Update the group name
