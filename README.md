@@ -19,7 +19,9 @@
 <p align="center">
   <a href="https://github.com/deviltech67/DEVIL-TECH-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
+
 ---
+
 
 > **CURRENT BOT VERSION ➜ `1.0.0 ⚡`**
 ---
